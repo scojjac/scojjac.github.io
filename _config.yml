@@ -1,5 +1,5 @@
 title: Scott's Docs
 description: Sample documentation site
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://docs.scottjack.me/
