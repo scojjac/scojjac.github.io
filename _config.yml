@@ -3,3 +3,9 @@ description: Sample documentation site
 remote_theme: just-the-docs/just-the-docs
 
 url: https://docs.scottjack.me/
+
+aux_links:
+  "scottjack.me":
+    - "//scottjack.me/"
+
+aux_links_new_tab: true
